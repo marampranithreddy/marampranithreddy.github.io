@@ -34,6 +34,7 @@ Hi, I am **M Pranith Reddy** pursuing Btech in mathematics and computing branch 
     **Instructor**:*Ms.Neeraja Raghavan*
 6. **HS101-Humanities and Social Science**
      **Instructor**:*Ms.Sabiha Hashami*
+
 # Hobbies
 1. Reading books
 2. Playing Outdoor Games
