@@ -26,13 +26,13 @@ Hi, I am **M Pranith Reddy** pursuing Btech in mathematics and computing branch 
   **Instructor**: *Dr.Sandipan De*
 2. **PH101-Quantum Physics**
    **Instructor**:*Dr.Santhosh Kumar Das*
- 3. **CH101-Physical Chemistry**
+3. **CH101-Physical Chemistry**
    **Instructor**:*Dr.Siva Subramaniam Iyer*
- 4. **CH102-Inorganic and Organic Chemistry**
+4. **CH102-Inorganic and Organic Chemistry**
    **Instructor**:*Dr.Raja Mitra, Dr.Rishikesh Narayana*
- 5. **ELPP-English Language Proficiency Programme**
+5. **ELPP-English Language Proficiency Programme**
     **Instructor**:*Ms.Neeraja Raghavan*
-  6. **HS101-Humanities and Social Science**
+6. **HS101-Humanities and Social Science**
      **Instructor**:*Ms.Sabiha Hashami*
 # Hobbies
 1. Reading books
